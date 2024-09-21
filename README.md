@@ -1,17 +1,18 @@
 # trabajo-en-clase
 prueba de envio de codigo y de screenshot
-print(" ")#define una linea en blanco
-print(" Roman De la Cruz Leonardo Antonio, numero par o impar")
-numero1=int(input("ingresa un numero"))#solicita el numero
 
-if numero1 == 0 :#verifica que el numero sea 0
-    
-    print ("El numero es 0")#imprime si el numero es 0
-if numero1 % 2 == 0:#verifica si el numero es par
-    print(" el numero es impar")#imprime si el numero es impar
+print(" ")#define una linea en blacno
+print("Roman De la Cruz Leonardo Antonio, marcar si es par, impar o 0")
+print(" ")#define una linea en blanco
+ct = int(input("Introduce un número: "))#solcita que ingrese 
+print(" ")#define una linea en blanco
+if ct % 2 == 0:#verifica si es par o impar
+    print("el numero ",ct," es par")#print imprime si es par
 else:
-    print("el numero es par")#imprime si el numero es par
-    ![image](https://github.com/user-attachments/assets/1cb7c991-569c-4d92-9bc4-f3a12e60bec1)
-    ![image](https://github.com/user-attachments/assets/084cb4f1-f670-41c1-999e-2f49d91cc0fd)
+    print("el numero ",ct,"es impar")#print imprime si es impar
+    print(" ")#define una linea en blanco
+
+    ![image](https://github.com/user-attachments/assets/78ec0cd4-2de8-4843-ab19-57420ffb95f0)
+![image](https://github.com/user-attachments/assets/85faf0f2-0f0c-4930-bcb0-13531e757bed)
 
 
