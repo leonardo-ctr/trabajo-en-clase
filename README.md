@@ -12,7 +12,7 @@ else:
     print("el numero ",ct,"es impar")#print imprime si es impar
     print(" ")#define una linea en blanco
 
-    ![image](https://github.com/user-attachments/assets/78ec0cd4-2de8-4843-ab19-57420ffb95f0)
+![image](https://github.com/user-attachments/assets/78ec0cd4-2de8-4843-ab19-57420ffb95f0)
 ![image](https://github.com/user-attachments/assets/85faf0f2-0f0c-4930-bcb0-13531e757bed)
 
 
